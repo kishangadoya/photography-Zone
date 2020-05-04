@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"Ser",
+				"ServerSocket"
+			],
+			[
+				"ali",
+				"alignment-baseline\tproperty"
+			],
+			[
+				"alg",
+				"align-self\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"std",
+				"stud"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"Add",
+				"Addsub"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"Sub",
+				"Sub1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Project Backup/Occasion_Planner/Update.php",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--5/Figure.java",
+		"/C/xampp/htdocs/PhotographyZone/admin/category.php",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-2/img.html",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-3/Formattingtag.html",
+		"/C/Users/Kishan Gadoya/Downloads/File15.html",
+		"/C/Users/Kishan Gadoya/Desktop/tab.html",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-2/billtable.html",
+		"/C/Users/Kishan Gadoya/Desktop/HTML Responsive Web Design.html",
+		"/E/Degree/6th/Advance Java/New folder/unit-2/unit-2 programs/callabledemo.java",
+		"/E/Degree/6th/Advance Java/New folder/unit-2/unit-2 programs/JDBCExample.java",
+		"/E/Degree/Web Craft Event/travel/index.html",
+		"/E/Degree/5th/Java/NetBeans Practicals/Bhavin/src/demo/Demo.java",
+		"/C/xampp/htdocs/casino/index.php",
+		"/C/xampp/htdocs/casino/admin/layouts/dbconn.php",
+		"/C/xampp/htdocs/casino/admin/layouts/footer.php",
+		"/C/xampp/htdocs/casino/admin/index.php",
+		"/C/xampp/htdocs/casino/admin/header.php",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-2/tablespan.html",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-2/tabledemo.html",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-3/address.html",
+		"/E/Degree/6th/WTP/Practicals/HTML/Lab-3/Formettingtag.html",
+		"/C/Users/Kishan Gadoya/Downloads/callabledemo.java",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Kishan Gadoya/Desktop/Demo.java",
+		"/C/Users/Kishan Gadoya/Desktop/demo2.java",
+		"/C/Users/Kishan Gadoya/Desktop/applet.java",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Kishan Gadoya/Downloads/Border.java",
+		"/C/xampp/htdocs/pz/Admin/detail.php",
+		"/C/xampp/htdocs/pz/Admin/stud_detail.php",
+		"/C/xampp/htdocs/pz/Admin/index.php",
+		"/C/xampp/htdocs/pz/Admin/faculty_detail.php",
+		"/C/xampp/htdocs/kishan/master_admin/home.php",
+		"/C/xampp/htdocs/Bootstrap Workshop/Day 1/05 Bootstrap/29 Components - JumboTron.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/05 Bootstrap/21 Components - Button Group.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/05 Bootstrap/13 Content - Images.html",
+		"/E/Degree/5th/Java/Notpad+++/Client-server/server.java",
+		"/E/Degree/5th/Java/Notpad+++/Client-server/client.java",
+		"/E/Degree/5th/Java/Notpad+++/server.java",
+		"/E/Degree/5th/Java/Notpad+++/client.java",
+		"/C/xampp/htdocs/kishan/master_admin/index.php",
+		"/C/xampp/htdocs/kishan/master_admin/css/index.css",
+		"/C/xampp/htdocs/Bootstrap Workshop/Day 1/05 Bootstrap/04 Util - Spacing.html",
+		"/C/xampp/htdocs/PhotographyZone/admin/index.php",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/03 Using Standard Icons/01 Standard Icon.html",
+		"/C/xampp/htdocs/PhotographyZone/admin/photographerdetail.php",
+		"/C/xampp/htdocs/PhotographyZone/admin/dbconn.php",
+		"/C/xampp/htdocs/PhotographyZone/admin/delete.php",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 2/02 jQuery/02.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/02 Web Fonts/01.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/01 CSS/02 ids_and_class.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/01 CSS/01 basic.html",
+		"/E/Degree/Workshop/Bootstrap Workshop/Day 1/01 CSS/03 floats.html",
+		"/C/xampp/htdocs/pz/Stud/index.php",
+		"/C/xampp/htdocs/pz/Stud/login.php",
+		"/C/xampp/htdocs/pz/Stud/display.php",
+		"/C/xampp/htdocs/pz/faculty/index.php",
+		"/C/xampp/htdocs/pz/notes.html",
+		"/C/xampp/htdocs/pz/Admin/home.php",
+		"/E/Degree/5th/Java/Notpad+++/Mid/Addsub.java",
+		"/E/PHP/Notes",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--2/Count.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--2/StrLength.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--2/Len.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--1/Operation.java",
+		"/E/Degree/5th/Java/Notpad+++/Extra Programs/Circle.java",
+		"/E/Degree/5th/Java/NetBeans Practicals/Project/Kishan/src/Log_in.java",
+		"/E/Degree/5th/Java/NetBeans Practicals/Project/Kishan/src/Log_in.form",
+		"/E/Degree/5th/Java/Notpad+++/Project/Main.java",
+		"/C/Users/Kishan Gadoya/Downloads/DEMO.TXT",
+		"/C/Users/Kishan Gadoya/Downloads/DEMO2.TXT",
+		"/E/Degree/5th/SP/PDF/SP.pdf",
+		"/C/xampp/htdocs/PhotographyZone/photographer/package.php",
+		"/C/xampp/htdocs/PhotographyZone/photographer/packagedetail.php",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--1/RupeeToDollar.java",
+		"/E/Degree/5th/Java/Notpad+++/Result.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--1/Count.java",
+		"/E/Degree/5th/Java/Notpad+++/Mid/Vegetables.java",
+		"/E/Degree/5th/Java/Notpad+++/Mid/Vegetable.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--1/Vegetable.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--4/SuperDemo.java",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--1/Average.java",
+		"/E/Degree/5th/Java/Notpad+++/Power.java",
+		"/C/xampp/htdocs/PhotographyZone/admin/process.php",
+		"/E/Degree/5th/Java/Notpad+++/Assignment--4/SuperDemo"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo",
+			"brand",
+			";\n",
+			"brand",
+			"img",
+			"index",
+			"img",
+			"<br>",
+			">\n",
+			"form",
+			"log",
+			"fo",
+			"images",
+			"admin",
+			"images",
+			"admin",
+			"System",
+			"field",
+			"System",
+			"fi",
+			"super",
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</br>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "category.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

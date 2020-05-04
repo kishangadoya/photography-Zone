@@ -1,0 +1,84 @@
+.body
+{
+	left-margin: 12;
+	background-color: #dbdcdb;
+	height:1000px;
+	width:1345px;
+	font-family: verdana;
+}
+
+.header
+{
+	 background-color:#3854e0;
+  height:60px;
+  padding: 25px;
+}
+
+.nav
+{
+	height: 800px;
+	width: 600px;
+	display: inline;
+	float: left;
+}
+
+.middle
+{
+	margin-top: 20px;
+	margin-left:495px;
+	height: 800px;
+	width: auto;
+	display: inline;
+	
+
+	
+}
+.comman
+{
+	display: table-cell;
+}
+.space
+{
+	margin-left:20px;
+}
+.radiospace
+{
+	margin-top: 10px;
+	letter-spacing: 1px;
+	font-family: verdana;
+}
+.btn
+{
+	background-color: green;
+	color:white;
+	height: 40px;
+	width: 150px;
+	text-align: center;
+	font-size: 20px;
+	font-family: verdana;
+}
+.footer
+{
+	height: 90px;
+	background-color: grey;
+	color: white;
+	line-height: 1.5;
+	 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
